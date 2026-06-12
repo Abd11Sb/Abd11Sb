@@ -1,4 +1,4 @@
-# I'm Abdelhadi Al Sabbagh
+# I'm Abdulhadi AL_Sabbagh
 
 <p align="center">
   <a href="https://linkedin.com/" target="_blank">
