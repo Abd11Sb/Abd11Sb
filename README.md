@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Abdelhadi Al Sabbagh
+# I'm Abdelhadi Al Sabbagh
 
 <p align="center">
   <a href="https://linkedin.com/" target="_blank">
