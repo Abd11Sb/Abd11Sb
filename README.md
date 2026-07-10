@@ -1,11 +1,11 @@
-# I'm Abdulhadi AL_Sabbagh
+# Hi there! 👋 I'm Abdulhadi Alsabbagh
 
 <p align="center">
-  <a href="https://linkedin.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" height="30" />
+  <a href="https://www.linkedin.com/in/abdulhadi-alsabbagh-100923356">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="https://github.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" height="30" />
+  <a href="https://github.com/Abd11Sb">
+    <img src="https://skillicons.dev/icons?i=github" />
   </a>
 </p>
 
@@ -13,81 +13,73 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Software Engineering Student – Information Technology Engineering (About to graduate)
-- 📍 Based in Syria
-- 🧠 Interested in System Analysis, Software Design & Documentation
-- 📝 Strong in technical writing, UML diagrams, and system modeling
-- 💡 Experienced in analyzing and documenting complex systems (Final Year Project: MENA24)
-- 👨‍🏫 Teaching programming & robotics basics
-- 🚀 Currently improving my backend development skills
+🎓 Software Engineering Graduate from Arab International University.
+
+💻 Passionate about Software Development, Mobile Applications, Web Applications, and Robotics.
+
+👨‍🏫 I work as an Informatics, Computer Basics & Robotics Instructor.
+
+🤖 I have:
+- 4 years of experience teaching LEGO SPIKE Robotics.
+- 1 year of experience teaching Arduino.
+- Participated in robotics training programs with Afaq Al-Hayat Foundation.
+
+🌱 Currently improving my skills in:
+- Spring Boot
+- React
+- Flutter
+- Software Architecture
 
 ---
 
-## 🎓 Graduation Project – MENA24
+## 🚀 Tech Stack
 
-**Geopolitical Analysis & Prediction System**
-
-- Technologies: ASP.NET, React
-- My Contribution:
-  - System analysis and requirements gathering
-  - UML diagrams (Use Case, Class, Sequence)
-  - Full technical documentation
-  - Report writing and structuring
-
-📌 Focus: Strong analytical and documentation contribution rather than core backend implementation
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,spring,react,flutter,dart,mysql,git,github,postman,vscode" />
+</p>
 
 ---
 
-## 🛠 Skills
+## 💼 Featured Projects
 
-### 💡 Core Strengths
-- System Analysis
-- Software Design (UML)
-- Technical Writing
-- Requirement Engineering
-- Project Documentation
+### 🌍 Middle East Geopolitical Analysis & Forecasting Platform
+- Graduation Project
+- React
+- Spring Boot
+- MySQL
+- REST APIs
 
-### 💻 Technical Skills (Basic / Intermediate)
-- Java
-- SQL
-- Git & GitHub
-- ASP.NET (basic)
-- React (basic understanding)
+### 📚 Educational Mobile Platform
+- Flutter
+- Dart
+- REST APIs
 
 ---
 
-## 🎯 Career Interests
+## 📊 GitHub Stats
 
-I am currently exploring career paths in:
+<p align="center">
 
-- 🧩 System Analyst
-- 🧪 QA / Software Tester
-- 📊 Business Analyst
-- 📝 Technical Writer
-- 👨‍💻 Junior Backend Developer (in progress)
+![](https://github-readme-stats.vercel.app/api?username=Abd11Sb&show_icons=true&theme=tokyonight)
 
----
+![](https://github-readme-streak-stats.herokuapp.com/?user=Abd11Sb&theme=tokyonight)
 
-## 📈 Goals
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abd11Sb&layout=compact&theme=tokyonight)
 
-- Build 1–2 strong backend projects (Java Spring or ASP.NET)
-- Improve problem-solving & coding skills
-- Strengthen GitHub portfolio
-- Improve English technical communication
-- Get internship / junior position before or after graduation
+</p>
 
 ---
 
-## ⚡ GitHub Stats
+## 📫 Connect with Me
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)
+📧 **Email:** alsabbaghabdulhadi@gmail.com
+
+💼 **LinkedIn:**  
+https://www.linkedin.com/in/abdulhadi-alsabbagh-100923356
+
+💻 **GitHub:**  
+https://github.com/Abd11Sb
 
 ---
 
-## 💬 Quote
-
-> “Good software is not only about coding, but also about understanding and designing the system correctly.”
-
----
-
-⭐ Thanks for visiting my profile!
+⭐ *"Always learning. Always building."*
